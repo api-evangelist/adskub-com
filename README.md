@@ -72,15 +72,88 @@ AdsKub is an online classifieds platform focused on the Phuket region of Thailan
 
 Everything profiled for AdsKub is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/adskub-com/](https://apis.io/providers/adskub-com/)** — or go straight to one of the APIs or properties below.
 
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Adskub Com Authentication](https://apis.io/security/adskub-com/adskub-com-authentication/)
+- [Adskub Com Domain Security](https://apis.io/security/adskub-com/adskub-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Adskub Com Scopes](https://apis.io/scopes/adskub-com/adskub-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Adskub Com Plans Pricing](https://apis.io/plans/adskub-com/adskub-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Adskub Com Rate Limits](https://apis.io/rate-limits/adskub-com/adskub-com-rate-limits/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://adskub.com/)
+- [Documentation](https://adskub.com/en/phuket/blog/tag/guides)
+- [Blog](https://adskub.com/en/phuket/blog)
+- [Terms of service](https://adskub.com/en/phuket/legal/terms)
+- [Privacy policy](https://adskub.com/en/phuket/legal/privacy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/adskub-com/](https://apis.io/providers/adskub-com/).
+**Kin Score 17.5** — emerging · rubric 0.26.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 18.3 |
+| Access clarity | 34.2 |
+
+**Agent readiness 27.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adskub-com/](https://apis.io/providers/adskub-com/).
 
 ## How this profile is made
 
