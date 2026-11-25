@@ -66,7 +66,7 @@
 
 AdsKub is an online classifieds platform focused on the Phuket region of Thailand, enabling users to buy, sell, and rent a wide range of items including vehicles such as cars, motorcycles, and scooters, as well as real‑estate like apartments, condos, and villas. The service provides a localized marketplace that connects buyers and sellers through a web interface, supporting multiple languages and offering image‑rich listings to facilitate transactions.
 
-**Areas:** classifieds · marketplace · real-estate · vehicles · Thailand · Phuket
+**Areas:** Classifieds · Marketplace · Real Estate · Vehicles · Thailand · Phuket
 
 ## AdsKub on APIs.io
 
@@ -80,26 +80,26 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adskub Com Authentication](https://apis.io/security/adskub-com/adskub-com-authentication/)
-- [Adskub Com Domain Security](https://apis.io/security/adskub-com/adskub-com-domain-security/)
+- [AdsKub Authentication](https://apis.io/security/adskub-com/adskub-com-authentication/)
+- [AdsKub Domain Security](https://apis.io/security/adskub-com/adskub-com-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Adskub Com Scopes](https://apis.io/scopes/adskub-com/adskub-com-scopes/)
+- [AdsKub Scopes](https://apis.io/scopes/adskub-com/adskub-com-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Adskub Com Plans Pricing](https://apis.io/plans/adskub-com/adskub-com-plans-pricing/)
+- [AdsKub Plans Pricing](https://apis.io/plans/adskub-com/adskub-com-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Adskub Com Rate Limits](https://apis.io/rate-limits/adskub-com/adskub-com-rate-limits/)
+- [AdsKub Rate Limits](https://apis.io/rate-limits/adskub-com/adskub-com-rate-limits/)
 
 ## Where to find this API
 
@@ -113,25 +113,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 17.5** — emerging · rubric 0.26.0 · scored 2026-10-31
+**Kin Score 17.7** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.2 |
+| Discoverability | 55.4 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 18.3 |
-| Access clarity | 34.2 |
+| Access clarity | 36.2 |
 
-**Agent readiness 27.6** — agent-aware
+**Agent readiness 23.9** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
@@ -150,8 +150,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 23.5** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adskub-com/](https://apis.io/providers/adskub-com/).
 
